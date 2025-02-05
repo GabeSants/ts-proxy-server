@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Diretório de saída do TypeScript
+dist/
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.env
+.DS_Store
